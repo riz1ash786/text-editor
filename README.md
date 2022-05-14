@@ -1,4 +1,4 @@
-# Text-Editor
+# Text Editor
 
 ## Table of contents
 
@@ -9,7 +9,7 @@
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [License](#license)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Deployed application](#deployed-application)
 - [GitHub repository](#github-repository)
 - [Questions](#questions)
@@ -43,7 +43,7 @@ $ npm start
 
 ## Usage
 
-This application can be deployed locally alternatively, if you wish to deploy this application on Heroku then please use the link provided in the 'Deployed Application' section listed below. The 'Install' button will allow the user to to download the web application as an icon onto their desktop.
+This application can be deployed locally or if you wish to deploy this application on Heroku then please use the link provided in the 'Deployed Application' section listed below. The 'Install' button will allow the user to to download the web application as an icon onto their desktop.
 
 ---
 
@@ -52,13 +52,14 @@ This application can be deployed locally alternatively, if you wish to deploy th
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>&nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodemon-logo-png-transparent.png" title="Nodemon" alt="Nodemon" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-
 </div>
 
 ---
@@ -88,7 +89,7 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 ---
 
-## Screenshot
+## Screenshots
 
 ![Homepage](./client/src/images/application-home.png)
 
